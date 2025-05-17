@@ -106,10 +106,6 @@ Contributions are welcome! Open an issue first to discuss your ideas or improvem
 Feel free to fork, improve, or create issues. Help make the web a safer place!
 
 ---
-Great! Here's your finalized `README.md` file ready for use. You can copy this into your project root directory as `README.md` and push it to GitHub.
-
----
-
 
 
 ## 📁 Project Structure
