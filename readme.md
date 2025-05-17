@@ -4,7 +4,7 @@
 ```markdown
 # 🛡️ PhishGuard - Phishing URL Detector
 
-![PhishGuard Screenshot](banner image.png)
+![PhishGuard Screenshot](banner%20image.png)
 
 
 PhishGuard is an intelligent phishing URL detection tool powered by machine learning. It helps users scan suspicious links in real-time, providing detailed threat insights and actionable safety tips.
