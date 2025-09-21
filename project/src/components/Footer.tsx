@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Github, Twitter, Linkedin } from 'lucide-react';
+import { Shield} from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -11,15 +11,7 @@ const Footer: React.FC = () => {
             <span className="text-xl font-semibold">PhishGuard</span>
           </div>
           
-          <div className="flex space-x-4 mb-4 md:mb-0">
-            <a href="https://github.com/meenayaparala" className="text-dark-accent hover:text-blue-400 transition-colors">
-              <Github size={20} />
-            </a>
-            <a href="https://www.linkedin.com/in/meenakumari-yaparala/" className="text-dark-accent hover:text-blue-400 transition-colors">
-              <Linkedin size={20} />
-            </a>
-          </div>
-          
+        
           <div className="text-sm text-dark-accent">
             &copy; {new Date().getFullYear()} PhishGuard. All rights reserved.
           </div>
